@@ -37,5 +37,6 @@ public class AssertionAssignment {
 		Assert.assertEquals(ActualCheckingBtnClickable, ExpectedCheckingBtnClickable);
 	}
 	
+	// Testing github
 	
 }
